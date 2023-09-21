@@ -1,3 +1,7 @@
-# Sorting Visualizer
+● Illustrated the intricacies of various sorting algorithms.
+● Ensured a hands-on, visual representation of algorithms.
+● Designed to aid both beginners and experts.
+● Facilitates a deeper understanding and analysis of algorithm performance nuances.
+● Developed an intuitive tool for real-time visualization.
 
-Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+LIVE LINK-https://clementmihailescu.github.io/Sorting-Visualizer/
